@@ -1,7 +1,7 @@
 package com.haibaraai.singleton.register;
 
 /**
- * 枚举单例
+ * 枚举shi单例
  */
 public enum  EnumSingleton  {
     INSTANCE;
