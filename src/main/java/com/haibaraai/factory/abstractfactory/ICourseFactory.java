@@ -14,5 +14,5 @@ public abstract class ICourseFactory {
 
     public abstract IVideo createVideo();
 
-    public abstract   IForum createForum();
+    public abstract IForum createForum();
 }
